@@ -26,9 +26,4 @@ The dataset comes from **LendingClub**, a prominent peer-to-peer lending platfor
 ### 🧹 [Data Cleaning](https://github.com/MaSOouD69/Loan-prediction/blob/main/1.%20data_cleaning.ipynb)
 We started by tidying up the dataset: removing irrelevant features, handling missing data, and eliminating any features not available at loan issuance time.
 
-### 🕵️‍♂️ [Exploratory Data Analysis (EDA)](https://github.com/MaSOouD69/Loan-prediction/blob/main/2.%20EDA.ipynb)
-EDA helped understand feature distributions and relationships with loan status, thus informing model choice and guiding feature engineering.
-
-### 🧠 [Feature Engineering](https://github.com/MaSOouD69/Loan-prediction/blob/main/3.%20Feature%20Engineering.ipynb)
-We transformed existing data through one-hot encoding, converting categorical variables into machine-learning-friendly formats.
 
